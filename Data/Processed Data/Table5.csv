@@ -1,0 +1,11 @@
+Study_ID,First Author,Year,Country,CountryFlag,Outcome Domain,Classification,Total Tests,Statistically Significant Tests,Effect Size
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,SEC,Medium,4,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,SEC,Medium,4,0,
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Prosocial behaviour,Medium,2,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Prosocial behaviour,Medium,2,0,
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Emotional distress,Medium,2,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Emotional distress,Medium,4,1,"Beta = .343, SE = .167"
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Aggression,Medium,2,0,
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,Aggression,Medium,2,1,"Beta = .288, SE = .102"
+11,Humphrey,2015,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,School functioning,Medium,8,4,"Beta range = [.298, .458], SE range = [.146  .173]"
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,School functioning,Medium,2,0,
